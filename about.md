@@ -1,4 +1,5 @@
-Crin - Decentralized Insurance Protocol for token investment (DeIn)
+##Crin - Crypto Insurance
+The Decentralized Insurance Protocol for token investment (DeIn)
 
 Da Nang, July 2022
 ### Author
