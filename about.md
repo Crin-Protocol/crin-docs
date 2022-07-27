@@ -1,4 +1,4 @@
-##Crin - Crypto Insurance
+## Crin - Crypto Insurance
 
 The Decentralized Insurance Protocol for token investment (DeIn)
 
