@@ -21,7 +21,7 @@ Full whitepaper VN: [https://drive.google.com/file/d/1DTt3YjC5_xCAA4ZubLNUGHW_kc
 
 English
 <br/>
-Pitch Desk EN: [Comming soon]
+Pitch Desk EN: https://docs.google.com/presentation/d/1GeK_vAD1UqUMS8xrQu-Xw6rSsz_Jg6YwNnvkZNQLbIg/edit?usp=sharing
 <br/>
 Technical whitepaper EN: [https://docs.google.com/document/d/1Q9qb6d4K7WeT0exMQkNAXRbfLwVrreypsRfRS2U_UWE/edit](https://docs.google.com/document/d/1Q9qb6d4K7WeT0exMQkNAXRbfLwVrreypsRfRS2U_UWE/edit)
 
